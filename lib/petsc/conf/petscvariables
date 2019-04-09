@@ -1,0 +1,3 @@
+PETSC_ARCH=arch-linux2-c-debug
+PETSC_DIR=/home/nishitht/petsc-3.10.3
+include $(PETSC_DIR)/$(PETSC_ARCH)/lib/petsc/conf/petscvariables
