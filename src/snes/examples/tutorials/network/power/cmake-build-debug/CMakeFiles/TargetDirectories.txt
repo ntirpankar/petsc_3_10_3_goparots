@@ -1,0 +1,4 @@
+/home/nishitht/petsc-3.10.3/src/snes/examples/tutorials/network/power/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nishitht/petsc-3.10.3/src/snes/examples/tutorials/network/power/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nishitht/petsc-3.10.3/src/snes/examples/tutorials/network/power/cmake-build-debug/CMakeFiles/power.dir
+/home/nishitht/petsc-3.10.3/src/snes/examples/tutorials/network/power/cmake-build-debug/CMakeFiles/powersl.dir

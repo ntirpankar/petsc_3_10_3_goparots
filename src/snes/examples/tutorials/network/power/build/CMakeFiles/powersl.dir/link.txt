@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libpowersl.so.1 -o libpowersl.so.1 CMakeFiles/powersl.dir/pffunctions.c.o CMakeFiles/powersl.dir/PFReadData.c.o CMakeFiles/powersl.dir/power.c.o /home/nishitht/petsc-3.10.3/arch-linux2-c-debug/lib/libpetsc.so -lm -lmpichcxx -lmpich -Wl,-rpath,/home/nishitht/petsc-3.10.3/arch-linux2-c-debug/lib 

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/power.dir/pffunctions.c.o CMakeFiles/power.dir/PFReadData.c.o CMakeFiles/power.dir/power.c.o  -o power -rdynamic /home/nishitht/petsc-3.10.3/arch-linux2-c-debug/lib/libpetsc.so -lm -lmpichcxx -lmpich -Wl,-rpath,/home/nishitht/petsc-3.10.3/arch-linux2-c-debug/lib 
