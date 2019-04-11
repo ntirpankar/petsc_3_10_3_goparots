@@ -1,7 +1,7 @@
 cmake_minimum_required (VERSION 2.6.3)
 project (POWER)
 
-list (APPEND CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake-modules")
+list (APPEND CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/nishith")
 
 find_package (PETSc REQUIRED)
 find_package(MPI REQUIRED)
